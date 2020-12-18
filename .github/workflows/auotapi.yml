@@ -35,7 +35,7 @@ jobs:
 
       run: | 
         echo `date +"%Y-%m-%d %H:%M:%S"` begin > time.log
-        python 1.py  
+        python E5.py  
     - name: Commit #上传新的refresh_token到仓库
       run: |
         git config --global user.email AutoupdateRobot@email.com
