@@ -3,7 +3,7 @@
 
 还有onedrive的api  
 
-加密版地址（推荐）：https://github.com/wangziyingwen/AutoApiSecret  
+加密版地址：https://github.com/wangziyingwen/AutoApiSecret  
 
 然后把issues里的简化加上了  
 
